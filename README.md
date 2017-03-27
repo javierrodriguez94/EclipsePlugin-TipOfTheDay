@@ -4,7 +4,7 @@ Eclipse Plugin that show you interesting tips about eclipse when you click the b
 
 ## Installation
 
-Download EclipsePlugin-TipOfTheDay.zip
+Download [EclipsePlugin-TipOfTheDay.zip](https://github.com/javierrodriguez94/EclipsePlugin-TipOfTheDay/blob/master/EclipsePlugin-TipOfTheDay.zip)
 
 Open Eclipse
 
