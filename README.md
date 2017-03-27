@@ -12,3 +12,7 @@ Click Help > Install New Software > Add
 
 Select the file downloaded EclipsePlugin-TipOfTheDay.zip
 
+## Extension Points
+
+Extension points can be created with new features to add new tips sources.
+
